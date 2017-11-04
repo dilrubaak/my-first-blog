@@ -25,7 +25,7 @@ SECRET_KEY = 'q131t220--_l=xfqn_rx7xr62cc0z)(pqb@5xk0mc1=2-(75(0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dilrubaak.pythonanywhere.com']
 
 
 # Application definition
